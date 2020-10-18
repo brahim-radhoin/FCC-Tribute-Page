@@ -1,0 +1,32 @@
+#main {
+  padding: 10px;
+  text-align: center;
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+
+#title {
+  font-family: Verdana, sans-serif;
+}
+
+#img-div {
+  padding: 10px 25vw;
+}
+
+#image {
+  margin: 0 auto;
+  height: auto;
+  max-width: 100%;
+  display: block;
+}
+
+#tribute-info {
+  padding: 10px 25vw;
+}
+
+#tribute-info ul li p {
+  text-align: left;
+}
+
+.tribute-link {
+  padding: 30px;
+}
